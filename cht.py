@@ -3633,7 +3633,7 @@ TOTAL GENERAL (1)                              5.281.101.137,32    2.567.427.605
 """
     conversation_history = StreamlitChatMessageHistory()  # Créez l'instance pour l'historique
 
-    st.header("PLF2025: Explorez le rapport sur les dépenses relatives aux charges communes à travers notre chatbot 💬")
+    st.header("PLF2025: Explorez le rapport sur les services de l'état gérés de manière autonome à travers notre chatbot 💬")
     
     # Load the document
     #docx = 'PLF2025-Rapport-FoncierPublic_Fr.docx'
