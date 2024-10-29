@@ -113,7 +113,7 @@ st.sidebar.subheader("Suggestions:")
 questions = [
     "Donnez-moi un résumé du rapport ",
     "Quels sont les principaux défis financiers identifiés pour les SEGMA dans les secteurs de la santé et de l’éducation ?",        
-    "Quels types d'événements génèrent le plus de recettes et sont-ils amenés à se développer dans les prochaines années ?",
+    "Comment les dépenses et recettes des SEGMA varient-elles entre les différents domaines d'action économique ?",
     "Quelle est la répartition des ressources des SEGMA entre recettes propres, subventions et excédents reportés ?"
 ]
 # Initialisation de l'historique de la conversation dans `st.session_state`
